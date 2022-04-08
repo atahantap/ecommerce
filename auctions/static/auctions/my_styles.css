@@ -1,0 +1,30 @@
+body {
+    padding: 20px;
+}
+
+table {
+  border: 5px solid #8532a8;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 5px;
+  width: 1000px;
+  /* border-collapse: collapse; */
+
+}
+
+th {
+  text-align: center;
+  border: 2px solid #10097a;
+  background-color: #e8a7a7;
+  padding: 5px;
+  color: #10097a;
+
+}
+
+td {
+  border: 2px dotted #10097a;
+  padding: 5px;
+  text-align: center;
+  color: #333233;
+  background-color: #fcdcdc;
+}
